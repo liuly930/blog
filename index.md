@@ -3,11 +3,11 @@
 我的第一个博客
 
 创建流程：
--建立账号
--创建仓库
--调整
--选择主题
--确认
+ -建立账号
+ -创建仓库
+ -调整
+ -选择主题
+ -确认
 
 You can use the [editor on GitHub](https://github.com/liuly930/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
